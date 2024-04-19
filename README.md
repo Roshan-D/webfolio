@@ -1,6 +1,6 @@
 ## Webfolio
 
-My [personal website](https://roshn.dev)!
+My personal website and [digital portfolio](https://roshn.dev)!
 
 ## Development
 
